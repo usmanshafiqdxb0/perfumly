@@ -1,0 +1,6 @@
+{
+  "name": "Purfumely",
+  "description": "Premium luxury fragrances and beauty shopping app for Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

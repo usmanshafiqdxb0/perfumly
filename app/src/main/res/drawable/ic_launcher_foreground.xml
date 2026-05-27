@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central Luxury Perfume Bottle Illustration (kept in 66dp center safe zone) -->
+    <!-- Gold Metallic Cap / Atomizer -->
+    <path
+        android:fillColor="#DFBA45"
+        android:pathData="M44,32 h20 v8 h-20 z" />
+    
+    <!-- Gold Collar/Neck -->
+    <path
+        android:fillColor="#B19253"
+        android:pathData="M49,40 h10 v4 h-10 z" />
+    
+    <!-- Main Crystal Glass Body with shaved elegant corners -->
+    <path
+        android:fillColor="#EFEFEF"
+        android:strokeColor="#DFBA45"
+        android:strokeWidth="2.5"
+        android:pathData="M38,44 h32 a4,4 0 0 1 4,4 v24 a4,4 0 0 1 -4,4 h-32 a4,4 0 0 1 -4,-4 v-24 a4,4 0 0 1 4,-4 z" />
+    
+    <!-- Golden Liquid Inside -->
+    <path
+        android:fillColor="#4DDFBA45"
+        android:pathData="M37,50 h34 v21 a1,1 0 0 1 -1,1 h-32 a1,1 0 0 1 -1,-1 z" />
+        
+    <!-- Luxury Brand Crown Monogram 'P' Centered -->
+    <!-- Golden Crown Top -->
+    <path
+        android:fillColor="#DFBA45"
+        android:pathData="M51,54 L52,56 L54,54 L56,56 L57,54 L56,58 L52,58 Z" />
+    <!-- Monogram Initial 'P' -->
+    <path
+        android:fillColor="#DFBA45"
+        android:pathData="M52,60 h3.5 c1,0 1.5,0.5 1.5,1 s-0.5,1 -1.5,1 h-2 v2 h-1.5 z M53.5,61 v1 h1.5 c0.3,0 0.5,-0.2 0.5,-0.5 s-0.2,-0.5 -0.5,-0.5 z" />
+</vector>
